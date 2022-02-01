@@ -15,4 +15,4 @@ Suburban areas seems to be a distant middle ground.
 ![Graph](https://github.com/GaryGibbs-777/PyBer_Analysis/blob/main/Total_Fares_Graph.PNG)
 
 # Summary
-Using the analysis, I would recommend that they increase the cost in Urban areas since, most of the riders are in those areas. Second I would think about getting more rural and suburban drivers because the average is pretty high, in particular suburban areas. 
+Using the analysis, I would recommend that they increase the cost in Urban areas since, most of the riders are in those areas. Second I would think about getting more rural and suburban drivers because the average is pretty high, in particular suburban areas. Finally, I would get more drivers in Urban areas because I can see the total of riders going up as we start go from the pandemic to the endemic.
