@@ -12,3 +12,7 @@ If you look at the Urban areas they have the highest total rides, drivers, and t
 
 Suburban areas seems to be a distant middle ground.
 
+![Graph](https://github.com/GaryGibbs-777/PyBer_Analysis/blob/main/Total_Fares_Graph.PNG)
+
+# Summary
+Using the analysis, I would recommend that they increase the cost in Urban areas since, most of the riders are in those areas. Second I would think about getting more rural and suburban drivers because the average is pretty high, in particular suburban areas. 
